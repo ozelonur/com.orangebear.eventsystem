@@ -1,7 +1,7 @@
 {
     "name" : "com.orangebear.eventsystem",
     "displayName" : "Orange Bear Event System",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "unity" : "2021.3",
     "author" : "Onur ÖZEL",
     "description" : "This is a Orange Bear Event System package for developing hypercasual games easily",
