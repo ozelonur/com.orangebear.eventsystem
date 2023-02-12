@@ -3,7 +3,8 @@ using System.Linq;
 using UnityEngine;
 
 namespace OrangeBear.EventSystem
-{
+{ 
+    [DefaultExecutionOrder(-1001)]
     public class BearManager : MonoBehaviour
     {
         #region Public Variables
