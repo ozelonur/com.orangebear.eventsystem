@@ -1,10 +1,10 @@
 {
-    "name" : "com.orangebear.core",
-    "displayName" : "Orange Bear Core",
+    "name" : "com.orangebear.eventsystem",
+    "displayName" : "Orange Bear Event System",
     "version" : "1.0.0",
     "unity" : "2021.3",
     "author" : "Onur ÖZEL",
-    "description" : "This is a Orange Bear Core package for developing hypercasual games easily",
+    "description" : "This is a Orange Bear Event System package for developing hypercasual games easily",
     "dependencies" : {},
     "repository" : {
       "type" : "git",
