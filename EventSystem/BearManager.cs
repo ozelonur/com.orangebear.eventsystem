@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace OrangeBear.EventSystem
 {
+    [ExecutionOrder(-1001)]
     public class BearManager : MonoBehaviour
     {
         #region Public Variables
